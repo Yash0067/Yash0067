@@ -124,12 +124,7 @@ const yash = {
 ---
 progress score 🕹️
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash0067/Yash0067/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash0067/Yash0067/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yash0067/Yash0067/output/pacman-contribution-graph.svg">
-</picture>
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 ---
 ## 📫 Let's Connect
 

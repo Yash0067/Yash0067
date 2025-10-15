@@ -15,7 +15,7 @@ const yash = {
     education: "B.Sc. Computer Science - Final Year",
     interests: ["AI", "Full-Stack Development", "Backend Systems", "UI/UX"],
     currentFocus: "Building AI-powered Web Applications",
-    funFact: "I debug my life the same way I debug my code 😄",
+    funFact: "My code works perfectly... right after I stop showing it to someone 😅",
     lifePhilosophy: "Code. Learn. Build. Repeat. ☕"
 };
 ```

@@ -13,21 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           persist-credentials: false
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@master
+      # Generate the snake GIF (default)
+      - uses: Platane/snk@master
         with:
           github_user_name: Yash0067
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: ad-m/github-push-action@master
+      # Push files to output branch
+      - uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output

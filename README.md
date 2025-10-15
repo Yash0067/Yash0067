@@ -7,12 +7,6 @@
 
 </div>
 
-🎓 Final-year **B.Sc. Computer Science** student at **Thakur College**  
-💡 Passionate about **AI, Web Development, and Building Smart Applications**  
-📍 Based in **Mumbai, Maharashtra, India**  
-
----
-
 ## 🧠 About Me
 
 ```javascript

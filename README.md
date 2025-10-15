@@ -124,7 +124,7 @@ const yash = {
 ---
 progress score 🕹️
 
-![snake gif](https://github.com/Yash0067/Yash0067/blob/output/github-contribution-grid-snake.gif)
+
 
 ---
 ## 📫 Let's Connect
